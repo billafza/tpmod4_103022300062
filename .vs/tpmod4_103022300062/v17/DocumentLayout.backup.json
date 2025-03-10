@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{5FCDEB71-C810-411D-8801-B97080383977}|tpmod4_103022300062.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5FCDEB71-C810-411D-8801-B97080383977}|tpmod4_103022300062.csproj|c:\\nashbilla nurfazza\\praktikum konstruksi pl\\tpmod4_103022300062\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCDEB71-C810-411D-8801-B97080383977}|tpmod4_103022300062.csproj|solutionrelative:doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FCDEB71-C810-411D-8801-B97080383977}|tpmod4_103022300062.csproj|c:\\nashbilla nurfazza\\praktikum konstruksi pl\\tpmod4_103022300062\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCDEB71-C810-411D-8801-B97080383977}|tpmod4_103022300062.csproj|solutionrelative:kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\NASHBILLA NURFAZZA\\PRAKTIKUM KONSTRUKSI PL\\tpmod4_103022300062\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "DoorMachine.cs",
+              "ToolTip": "C:\\NASHBILLA NURFAZZA\\PRAKTIKUM KONSTRUKSI PL\\tpmod4_103022300062\\DoorMachine.cs",
+              "RelativeToolTip": "DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:15:10.59Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\NASHBILLA NURFAZZA\\PRAKTIKUM KONSTRUKSI PL\\tpmod4_103022300062\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T09:52:01.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
               "DocumentMoniker": "C:\\NASHBILLA NURFAZZA\\PRAKTIKUM KONSTRUKSI PL\\tpmod4_103022300062\\KodePos.cs",
               "RelativeDocumentMoniker": "KodePos.cs",
               "ToolTip": "C:\\NASHBILLA NURFAZZA\\PRAKTIKUM KONSTRUKSI PL\\tpmod4_103022300062\\KodePos.cs",
               "RelativeToolTip": "KodePos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T10:17:33.207Z",
               "EditorCaption": ""
